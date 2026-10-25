@@ -1,4 +1,4 @@
-Nama Lengkap: Muhammad Farrel Rizky Alandra
+Nama Lengkap: Muhammad Farrel Rizky Alandra <br>
 NRP: 5024261052
 
 # Analisis Singkat & Kendala
